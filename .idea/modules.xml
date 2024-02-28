@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/algo_oj.iml" filepath="$PROJECT_DIR$/.idea/algo_oj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_1/b0f15f18fbfc462e9f6e4de78c253bfd/173-datastructure_chapter1_1/data_structure_test.iml" filepath="$PROJECT_DIR$/test_1/b0f15f18fbfc462e9f6e4de78c253bfd/173-datastructure_chapter1_1/data_structure_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_1/b0f15f18fbfc462e9f6e4de78c253bfd/174-datastructure_chapter1_2/test.iml" filepath="$PROJECT_DIR$/test_1/b0f15f18fbfc462e9f6e4de78c253bfd/174-datastructure_chapter1_2/test.iml" />
+    </modules>
+  </component>
+</project>
